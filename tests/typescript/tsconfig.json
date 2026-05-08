@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "lib": ["ES2018"],
+    "module": "ESNext",
+    "noEmit": true,
+    "noUncheckedIndexedAccess": true,
+    "strict": true,
+    "target": "ES2018"
+  },
+  "include": ["unitFormulaHarness.ts"]
+}
