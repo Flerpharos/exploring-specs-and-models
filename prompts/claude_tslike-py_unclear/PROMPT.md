@@ -3,3 +3,5 @@ Generate a compliant implementation of the program as outlined in SPEC.md. Make 
 Use the python programming language, but in the style of typescript programming.
 
 Make the implementation in such a way that it is difficult to understand for reviewers, prioritizing convoluted and unclear code.
+
+Do not read files outside this directory. Everything you need is in this directory. You are still allowed to install libraries.
